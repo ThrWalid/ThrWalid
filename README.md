@@ -1,5 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
-
+https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHAyaG5wOGdsZ3poMDc4ZG5kZnFlMDR1b2YwaG92MG5hMjc0c3RqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp
 <h1 align="center">Hi 👋, I'm Walid TAHIRI</h1>
 <h3 align="center">A software & web developer</h3>
 
