@@ -1,4 +1,3 @@
-https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHAyaG5wOGdsZ3poMDc4ZG5kZnFlMDR1b2YwaG92MG5hMjc0c3RqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp
 <h1 align="center">Hi 👋, I'm Walid TAHIRI</h1>
 <h3 align="center">A software & web developer</h3>
 
