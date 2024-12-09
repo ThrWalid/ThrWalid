@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Walid TAHIRI</h1>
 <h3 align="center">A software & web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thrwalid&label=Profile%20views&color=0e75b6&style=flat" alt="thrwalid" /> </p>
-
 - 🔭 I’m currently working on **my-portfolio**
 
 - 🌱 I’m currently learning **Angular**
